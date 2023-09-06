@@ -7,6 +7,9 @@ This project focuses on creating an end-to-end ETL pipeline, starting with datas
 This dataset amazon.csv is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon
 https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
+## Data Architecture Diagram
+![Data Architecture Diagram](picture/Data_Architecture_Diagram.png)
+
 ## Project Steps
 
 **Step 1: Create Data Model**
@@ -36,6 +39,3 @@ Implement a star schema to optimize queries, improve performance, and enhance fl
 **Step 6: Reading and Analyzing Data**
 
 Retrieve data from MySQL and analyze the data to answer project-specific questions or achieve your objectives.
-
-## Data Architecture Diagram
-![Data Architecture Diagram](picture/Data_Architecture_Diagram.png)
